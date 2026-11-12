@@ -46,7 +46,7 @@ const Sidebar = ({ isMenuOpen, setIsMenuOpen }) => {
           Nova
         </span>
         <span className='text-4xl font-light tracking-widest text-white/90'>
-          Ai
+          AI
         </span>
       </div>
 
