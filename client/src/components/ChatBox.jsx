@@ -193,7 +193,7 @@ const ChatBox = () => {
                 Nova
               </span>
               <span className='text-7xl sm:text-[90px] font-light tracking-widest text-white/90'>
-                Ai
+                AI
               </span>
             </div>
             <p className='text-4xl sm:text-6xl text-center text-white tracking-tighter font-extralight opacity-80'>
